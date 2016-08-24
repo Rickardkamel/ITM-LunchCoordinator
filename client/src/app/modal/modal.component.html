@@ -1,0 +1,22 @@
+<div class="modal fade" bsModal #staticModal="bs-modal" [config]="{backdrop: 'static'}" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel"
+  aria-hidden="true">
+  <div class="modal-dialog modal-sm modal-max">
+    <div class="modal-content modal-middle">
+      <div class="modal-header">
+        <button type="button" class="close" aria-label="Close" (click)="hideModal()">
+          <span aria-hidden="true">&times;</span>
+        </button>
+        <h2 class="modal-title text-center">Välkommen</h2>
+      </div>
+      <div class="modal-body">
+        <input type="text" class="form-control" placeholder="Skriv in ditt namn" [(ngModel)]='userObject.name'>
+        <select class="form-control" [(ngModel)]="userObject.city" style="margin-top: 10px">
+          <option value="" disabled>Välj stad</option>
+          <option value="orebro">Örebro</option>
+          <option value="stockholm">Stockholm</option>
+        </select>
+        <button type="button" style="margin-top: 25px;" class="btn btn-block btn-primary" (click)="hideModal()">Klar</button>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,5 @@
+C:\Users\rickam\Desktop\ITM-Lunch\server\Models\bin\Debug\Models.dll
+C:\Users\rickam\Desktop\ITM-Lunch\server\Models\bin\Debug\Models.pdb
+C:\Users\rickam\Desktop\ITM-Lunch\server\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\Users\rickam\Desktop\ITM-Lunch\server\Models\obj\Debug\Models.dll
+C:\Users\rickam\Desktop\ITM-Lunch\server\Models\obj\Debug\Models.pdb

@@ -1,0 +1,199 @@
+html,
+body{
+    height: 100%;
+    background: radial-gradient(ellipse at center, rgba(202,124,6,1) 0%,rgba(68,43,2,1) 100%) center no-repeat;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+/*radial-gradient(#ab6a07, #623c04,#180f01)*/
+tbody tr {
+    cursor: pointer;
+}
+
+.th-center {
+    text-align: center;
+}
+
+.bg-white {
+    background-color: white;
+}
+
+img {
+    border-radius: 50px;
+}
+
+.name-time {
+    font-size: 30px;
+}
+.list-group-item{
+    border: none;
+    border-bottom: 1px solid #ddd;
+    background-color: transparent;
+    width: 50%;
+    margin: auto;
+    font-size: 16px;
+}
+.card{
+    text-align: center;
+}
+
+table a {
+    color: grey;
+    font-size: 16px;
+}
+
+a:focus, a:hover {
+    text-decoration: none;
+    color: lightgray;
+}
+
+.pagination>.active>a, .pagination>.active>a:focus, .pagination>.active>a:hover, .pagination>.active>span, .pagination>.active>span:focus, .pagination>.active>span:hover {
+    background-color: #623c04;
+    border-color: #623c04;
+}
+
+.pagination>li>a, .pagination>li>span {
+    color:  #623c04;
+}
+
+.table>tbody>tr>td {
+    font-size: 22px;
+}
+
+.lunch-form{
+    display: table;
+    margin: auto
+}
+
+.create-lunch-form{
+    height: 100%
+}
+
+.create-lunch-form .center-align {
+    text-align: center;
+    margin: 0 auto;
+    width: 100px;
+    position: absolute;
+    left: 50%;
+    top:50%;
+    margin-left: -50px;
+    margin-top: -50px;
+}
+
+.lunch-form .center-align {
+    width:1000px; 
+    margin:0 auto;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.modal .text-center {
+    text-align: center;
+}
+
+.modal {
+    background:radial-gradient(#ab6a07, #623c04,#180f01) center no-repeat;
+}
+
+.modal-max {
+    height:100%;    
+}
+
+.modal-middle {
+    top:25%;
+    height: 250px;
+}
+
+.navbar {
+    background: rgba(98, 60, 4, 0.3);
+    border-bottom-color: #623c04;
+}
+
+.navbar-default {
+    border-left: none;
+    border-top: none;
+    border-right: none;
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+    color: #fff;
+}
+
+.navbar-default .navbar-nav>li>a:focus {
+    color: #fff;
+}
+
+/*.bg-logo {
+    height: 100%;    
+    background-image: url('../img/icon.png');
+    background-repeat: no-repeat;
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+    margin: auto;
+    margin-top: -30px;
+    width: auto;
+    opacity: 0.6
+}*/
+
+.form-top-align {
+    top: 10%
+}
+
+.form-control {
+    font-size: 18px;
+}
+
+.form-group{
+    margin-bottom: 20%;
+}
+
+.full button span {
+    background-color: limegreen;
+    border-radius: 32px;
+    color: black;
+}
+    .partially button span {
+    background-color: orange;
+    border-radius: 32px;
+    color: black;
+}
+
+.table-condensed {
+    background: rgba(255, 139, 255, 0.15);
+    border-radius: 10px;
+    font-size: 20px;
+    width: 100%;
+    
+}
+
+.datepicker-inline {
+    width: 100%;
+}
+
+.input-group {
+    width:110px;
+    left: 33%;
+}
+
+.btn-faded-pink{
+    margin-top: 20px;
+    font-size: 20px;
+    background: rgba(255, 139, 255, 0.15);
+}
+
+.btn:focus,.btn:active {
+   outline: none !important;
+}
+
+
+.container {
+    margin-top: 10%;
+}
+
+.datepicker table tr td.active, .datepicker table tr td.active.disabled, .datepicker table tr td.active.disabled:hover, .datepicker table tr td.active:hover {
+    background-image: -webkit-gradient(linear,0 0,0 100%,from(#180f01),to(#623c04));
+}
+

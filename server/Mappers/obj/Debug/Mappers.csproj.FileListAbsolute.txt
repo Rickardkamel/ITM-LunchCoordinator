@@ -1,0 +1,13 @@
+C:\Users\rickam\Desktop\ITM-Lunch\server\Mappers\bin\Debug\Mappers.dll
+C:\Users\rickam\Desktop\ITM-Lunch\server\Mappers\bin\Debug\Mappers.pdb
+C:\Users\rickam\Desktop\ITM-Lunch\server\Mappers\obj\Debug\Mappers.csprojResolveAssemblyReference.cache
+C:\Users\rickam\Desktop\ITM-Lunch\server\Mappers\obj\Debug\Mappers.dll
+C:\Users\rickam\Desktop\ITM-Lunch\server\Mappers\obj\Debug\Mappers.pdb
+C:\Users\rickam\Desktop\ITM-Lunch\server\Mappers\bin\Debug\Contracts.dll
+C:\Users\rickam\Desktop\ITM-Lunch\server\Mappers\bin\Debug\Models.dll
+C:\Users\rickam\Desktop\ITM-Lunch\server\Mappers\bin\Debug\Contracts.pdb
+C:\Users\rickam\Desktop\ITM-Lunch\server\Mappers\bin\Debug\Models.pdb
+C:\Users\rickam\Desktop\ITM-Lunch\server\Mappers\bin\Debug\DataService.dll
+C:\Users\rickam\Desktop\ITM-Lunch\server\Mappers\bin\Debug\EntityFramework.dll
+C:\Users\rickam\Desktop\ITM-Lunch\server\Mappers\bin\Debug\DataService.pdb
+C:\Users\rickam\Desktop\ITM-Lunch\server\Mappers\bin\Debug\EntityFramework.xml

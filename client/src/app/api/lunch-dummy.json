@@ -1,0 +1,115 @@
+[
+    {
+        "id": 1,
+        "lunchTime": "12:00",
+        "restaurantId": "1",
+        "employees": [
+            {
+                "id": 1,
+                "name": "Rickard Kamel",
+                "city": "Örebro"
+            },
+            {
+                "id": 2,
+                "name": "Michel Ishak",
+                "city": "Örebro"
+            },
+            {
+                "id": 3,
+                "name": "Marcus Carlsson",
+                "city": "Örebro"
+            }
+        ],
+        "restaurant": {
+            "id": 1,
+            "name": "Burger Love",
+            "rating": 2
+        }
+    },
+    {
+        "id": 2,
+        "lunchTime": "12:00",
+        "restaurantId": "2",
+        "employees": [
+            {
+                "id": 1,
+                "name": "Rickard Kamel",
+                "city": "Örebro"
+            },
+            {
+                "id": 2,
+                "name": "Michel Ishak",
+                "city": "Örebro"
+            },
+            {
+                "id": 3,
+                "name": "Marcus Carlsson",
+                "city": "Örebro"
+            }
+        ],
+        "restaurant": {
+            "id": 2,
+            "name": "McDonalds",
+            "rating": 2
+        }
+    },
+    {
+        "id": 3,
+        "lunchTime": "13:00",
+        "restaurantId": "3",
+        "employees": [
+            {
+                "id": 1,
+                "name": "Rickard Kamel",
+                "city": "Örebro"
+            },
+            {
+                "id": 2,
+                "name": "Michel Ishak",
+                "city": "Örebro"
+            },
+            {
+                "id": 3,
+                "name": "Marcus Carlsson",
+                "city": "Örebro"
+            }
+        ],
+        "restaurant": {
+            "id": 3,
+            "name": "Burger King",
+            "rating": 2
+        }
+    },
+    {
+        "id": 4,
+        "lunchTime": "14:00",
+        "restaurantId": "4",
+        "employees": [
+            {
+                "id": 1,
+                "name": "Rickard Kamel",
+                "city": "Örebro"
+            },
+            {
+                "id": 2,
+                "name": "Michel Ishak",
+                "city": "Örebro"
+            },
+            {
+                "id": 3,
+                "name": "Marcus Carlsson",
+                "city": "Örebro"
+            },
+            {
+                "id": 4,
+                "name": "Petter Källström",
+                "city": "Örebro"
+            }
+        ],
+        "restaurant": {
+            "id": 4,
+            "name": "Max",
+            "rating": 2
+        }
+    }
+]

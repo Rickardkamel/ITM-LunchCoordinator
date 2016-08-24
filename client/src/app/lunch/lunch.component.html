@@ -1,0 +1,8 @@
+<div class="col-md-5">
+    <app-lunch-list (lunchSelected)="selectedLunch = $event"></app-lunch-list>
+</div>
+
+<div class="col-md-7">
+    <app-lunch-detail [selectedLunch]="selectedLunch"></app-lunch-detail>
+
+</div>

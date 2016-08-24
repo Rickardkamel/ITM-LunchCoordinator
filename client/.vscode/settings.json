@@ -1,0 +1,17 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.DS_Store": true,
+        "**/*.map": true
+        // "**/dist": true,
+        // "**/node_modules": true
+    },
+    
+    "files.autoSave": "afterDelay",
+
+    "editor.lineHeight": 0,
+    "editor.wrappingColumn": 200,
+    "editor.fontFamily": "Verdana",
+    "editor.fontSize": 15
+}

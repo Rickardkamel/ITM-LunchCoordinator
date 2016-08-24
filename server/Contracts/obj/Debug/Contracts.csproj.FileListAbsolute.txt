@@ -1,0 +1,10 @@
+C:\Users\rickam\Desktop\ITM-Lunch\Contracts\bin\Debug\Contracts.dll
+C:\Users\rickam\Desktop\ITM-Lunch\Contracts\bin\Debug\Contracts.pdb
+C:\Users\rickam\Desktop\ITM-Lunch\Contracts\obj\Debug\Contracts.csprojResolveAssemblyReference.cache
+C:\Users\rickam\Desktop\ITM-Lunch\Contracts\obj\Debug\Contracts.dll
+C:\Users\rickam\Desktop\ITM-Lunch\Contracts\obj\Debug\Contracts.pdb
+C:\Users\rickam\Desktop\ITM-Lunch\server\Contracts\bin\Debug\Contracts.dll
+C:\Users\rickam\Desktop\ITM-Lunch\server\Contracts\bin\Debug\Contracts.pdb
+C:\Users\rickam\Desktop\ITM-Lunch\server\Contracts\obj\Debug\Contracts.csprojResolveAssemblyReference.cache
+C:\Users\rickam\Desktop\ITM-Lunch\server\Contracts\obj\Debug\Contracts.dll
+C:\Users\rickam\Desktop\ITM-Lunch\server\Contracts\obj\Debug\Contracts.pdb

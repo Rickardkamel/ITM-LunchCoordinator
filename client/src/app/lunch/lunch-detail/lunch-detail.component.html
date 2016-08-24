@@ -1,0 +1,32 @@
+<!--<div class="row">
+  <div class="col-xs-12">
+    test
+  </div>
+</div>
+<div class="row">
+  <div class="col-xs-12">
+    <p *ngFor="let employee of selectedLunch?.Employees"> {{employee.Name}}</p>
+  </div>
+</div>-->
+<div class="col-md-1">
+
+</div>
+<div class="col-md-11 w3-card-16">
+
+  <div class="card" *ngIf="selectedLunch != null">
+    <img class="panel-img-top" style="height:350px;" [src]="'app/assets/img/'+selectedLunch?.Restaurant?.ImageUrl" alt="Card image cap">
+    <div class="panel-block">
+      <h4 class="name-time">{{selectedLunch?.Restaurant?.Name}} - {{selectedLunch?.LunchTime | date:'H:mm'}}</h4>
+      <p class="panel-text">{{selectedLunch?.lunchTime}}</p>
+    </div>
+    <ul class="list-group list-group-flush">
+      <li class="list-group-item" *ngFor="let employee of selectedLunch?.Employees"> {{employee.Name}}</li>
+    </ul>
+    <div class="panel-block">
+      <a href="#" class="panel-link">Card link</a>
+      <a href="#" class="panel-link">Another link</a>
+    </div>
+  </div>
+
+
+</div>

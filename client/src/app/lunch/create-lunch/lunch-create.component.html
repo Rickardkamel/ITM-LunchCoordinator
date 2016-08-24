@@ -1,0 +1,35 @@
+<div class="container">
+
+  <form [formGroup]="createForm" (ngSubmit)="submit()" role="form" class="form-top-align col-lg-offset-4 col-md-offset-4 col-lg-4 col-md-4 ">
+
+    <div class="form-group">
+      <input id="restaurant" type="text" class="form-control sequence" placeholder="Restaurang" formControlName="restaurant">
+    </div>
+
+    <div class="form-group">
+      <div id="sandbox-container" class="sequence" hidden>
+        <div id="calendar" class="calendar " value="">
+        </div>
+        <!--<input type="date" class="form-control sequence" formControlName="date" id="date" >-->
+      </div>
+    </div>
+    <div class="form-group">
+      <div class=" input-group clockpicker sequence" style="visibility: hidden">
+        <input id="time" type="text" class="form-control">
+        <span class="input-group-addon">
+        <span class="glyphicon glyphicon-time"></span>
+        </span>
+      </div>
+    </div>
+
+    <div class="form-group ">
+      <button type="submit" class="btn btn-faded-pink sequence input-group" style="visibility: hidden">Skapa</button>
+    </div>
+  </form>
+
+  <script>
+
+
+</script>
+
+</div>
