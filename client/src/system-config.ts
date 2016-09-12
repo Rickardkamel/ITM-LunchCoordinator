@@ -14,7 +14,7 @@ const map: any = {
   'bootstrap-datepicker': 'vendor/bootstrap-datepicker/dist/',
   'clockpicker-gh-pages': 'vendor/clockpicker-gh-pages/dist/',
   'ng2-select': 'vendor/ng2-select/',
-  'lodash': 'https://npmcdn.com/lodash@4.6.1/lodash.js',
+  'lodash': 'https://unpkg.com/lodash@4.6.1/lodash.js',
   'angular2-datatable': 'vendor/angular2-datatable'
 };
 
